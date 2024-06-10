@@ -11,8 +11,6 @@ tags:
 
 > Let's get the job.
 
-# First Page
-
 ### 细水长流
 
 已经很久没写过这样的东西了，这也是第一次在网络上写。<br>
